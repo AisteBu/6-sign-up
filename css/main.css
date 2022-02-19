@@ -75,7 +75,7 @@ body {
     height: 60px;
     text-align: center;
     font-size: 30px;
-    line-height: 57px;
+    line-height: 54px;
     position: absolute;
     top: 0;
     right: 0;
@@ -92,4 +92,7 @@ body {
     text-decoration: none;
     line-height: 20px;
     padding: 11px;
+}
+.form-row > a:hover {
+    text-decoration: underline;
 }
